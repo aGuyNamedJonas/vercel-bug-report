@@ -1,0 +1,10 @@
+{
+  "name": "firestore-vercel-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@now/node": "^1.6.0",
+    "firebase-admin": "^8.12.1"
+  }
+}
